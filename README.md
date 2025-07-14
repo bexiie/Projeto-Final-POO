@@ -111,6 +111,14 @@ mvn javafx:run
 
 -----
 
+## 🏗️ UML - DIAGRAMA DE CLASSES
+
+<p align="center"\>
+<img width="50%" alt="Captura de tela 2025-07-14 055322" src="https://github.com/user-attachments/assets/9e5a20b9-b98a-461b-a054-63261d84077e" />
+</p>
+
+-----
+
 ## 🖼 SCREENSHOTS DO SISTEMA
 
 <p align="center"\><i>Tela de login</i\></p\>
