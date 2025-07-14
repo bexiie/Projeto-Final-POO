@@ -51,7 +51,7 @@
 | Conexão DB    | JDBC                 | API padrão do Java para conectividade com bancos de dados. |
 | Versionamento | Git & GitHub         | Controle de versão do código-fonte.               |
 
-</div\>
+</div>
 
 -----
 
