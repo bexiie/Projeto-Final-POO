@@ -40,7 +40,7 @@
 
 ## 🚀 TECNOLOGIAS UTILIZADAS
 
-<div align="center">
+<div align="center"\>
 
 | Categoria     | Tecnologia           | Descrição                                         |
 |---------------|----------------------|---------------------------------------------------|
